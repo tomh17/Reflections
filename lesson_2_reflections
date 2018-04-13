@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-When you initalize a repository, it creates the work environment that you will use to organize your prokect from that point forward. Without initlaizing it, you won't have a workspace.
+
+How is the staging area differnet from the working directory and the repository? What value do you think it offers?
+
+The staging area allows you to move files into it where you can make changes, and then add them to a commit. This way if you edit the files, you can go back and see what changes you had made. In the working directory, you cannot do this. You can edit the files but that is the most that it can offer. 
